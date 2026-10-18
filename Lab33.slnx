@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Lab33.Part1/Lab33.Part1.csproj" />
+  <Project Path="Lab33.DAL/Lab33.DAL.csproj" />
+  <Project Path="Lab33.BLL/Lab33.BLL.csproj" />
+  <Project Path="Lab33.PL/Lab33.PL.csproj" />
+  <Project Path="Lab33.App/Lab33.App.csproj" />
+</Solution>
